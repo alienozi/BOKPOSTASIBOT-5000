@@ -1,7 +1,7 @@
-TEMPLATE klasörüne istediğiniz templateleri koyun
-FOTO klasörüne istediğiniz fotoloarı koyun
-!!!!!= BÜTÜN FOTOLAR YA .jpg ya da .png formatında 
-olmalıdır.
+TEMPLATE klasÃ¶rÃ¼ne istediÄŸiniz templateleri koyun
+FOTO klasÃ¶rÃ¼ne istediÄŸiniz fotoloarÄ± koyun
+!!!!!= BÃœTÃœN FOTOLAR YA .jpg ya da .png formatÄ±nda olmalÄ±dÄ±r.
+KlasÃ¶rler iÃ§indeki VBS ve BAT dosyalarÄ±na dokunmayÄ±n. DÃ¼zgÃ¼n Ã§alÄ±ÅŸmaz.
 
-BAT lara dokunursanız düzgün çalışmayabilir.
 2017 Agustos 2
+SON DEÄÄ°ÅME: 3 Agustos 2017
