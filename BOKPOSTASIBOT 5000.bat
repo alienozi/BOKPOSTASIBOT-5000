@@ -55,7 +55,7 @@ goto scan
 
 :PKM
 cd"./FOTO/"
-call ".pkm.bat"
+call "pkm.bat"
 
 :FIM
 CLS
